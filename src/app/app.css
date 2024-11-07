@@ -1,0 +1,14 @@
+/* igx-grid-header-group[id="igx-grid-0_-1_0_0"] {
+  background-color: lightgray; 
+}
+#igx-grid-0_-1_0_0.VerticalHeader .igx-grid__filtering-cell {
+  border-top-color: transparent; 
+}
+
+/* igx-grid-cell[data-visibleindex="0"] {
+  background-color: lightgray;
+} */
+
+.disabled-row {
+  pointer-events: none;
+}
